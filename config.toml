@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Sacha Brisset'
+theme = 'hugo-theme-console'
+sectionPagesMenu = 'main'
