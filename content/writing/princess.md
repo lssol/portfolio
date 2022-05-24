@@ -4,8 +4,6 @@ date: 2022-05-02T09:14:32+02:00
 draft: false
 ---
 
-# Princesse
-
 Il était une fois, une princesse, un roi et un royaume. Le royaume était prospère et le roi, bon, honnête et courageux. Le roi n'avait qu'un enfant, la princesse et il l'aimait plus encore qu'il n'aimait son royaume. Il l'aimait tant, qu'il n'osait jamais rien lui refuser. Lorsqu'elle était enfant, les artisans de tout le royaume voyageaient pendant des mois jusqu'au château pour offrir quelques jouets de conception originale que la princesse ne possédât pas encore et ils savaient que ce faisant, ils seraient récompensés généreusement par le roi.
 
 Bientôt, la princesse fut en âge de se marier. L'enfant était devenu femme et dans tous le royaume, on louait sa beauté : "La princesse est la plus belle jeune femme du royaume !" clamait-on, bien que peu aient pu la contempler de leurs propres yeux.
