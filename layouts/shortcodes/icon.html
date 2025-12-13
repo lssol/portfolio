@@ -1,0 +1,1 @@
+{{ $size := .Get "size" | default "20" }}<span style="display: inline-flex; align-items: center; vertical-align: middle; margin-right: 0.25em;">{{ $path := printf "static%s" (.Get "src") }}{{ $svg := readFile $path }}{{ $svg | replaceRE "width=\"[0-9]+\"" (printf "width=\"%s\"" $size) | replaceRE "height=\"[0-9]+\"" (printf "height=\"%s\"" $size) | safeHTML }}</span>
