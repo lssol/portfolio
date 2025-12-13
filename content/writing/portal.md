@@ -1,5 +1,5 @@
 ---
-title: "[English] A Second Chance"
+title: "[English] The Portal"
 date: 2021-03-07T09:14:32+02:00
 draft: false
 summary: "Every 40 years, every child born is a sacrificed child. Also called a child-of-the-portal. When reaching teenagehood, they will all be sent through a portal to a completely unknown world. All they know is: every 40 years, only one ever returns."

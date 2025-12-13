@@ -20,6 +20,8 @@ and listening (and composing) music 🎹.
 If you're interested in my writing, you can read some [here](/writing/).
 
 # Links
+{{< icon src="/icons/github.svg" alt="GitHub" >}} [GitHub](https://github.com/lssol)
+
 {{< icon src="/icons/linkedin.svg" alt="Linkedin" >}} [Linkedin](https://www.linkedin.com/in/sacha-brisset-790119ab/)
 
 {{< icon src="/icons/google-scholar.svg" alt="Google Scholar" >}} [Google Scholar](https://scholar.google.com/citations?hl=en&user=HvGWjMQAAAAJ)
