@@ -9,10 +9,10 @@ Hi, I am Sacha Brisset, a passionate developer (with PhD) based in Paris 🇫�
 
 I love reading about languages, design patterns and code quality, but more than anything, I genuinely enjoy the thrill of building an innovative product that solves a real-world problem.
 
-I currently work at Payfit as a Senior Software Engineer, where I work on the super powerful low-code platform called Jetlang allowing to implement labor laws to pay 100k+ employees across Europe.
+I currently work at Payfit as a Senior Software Engineer, where I help develop a powerful low-code platform called Jetlang allowing to implement labor laws to pay 300k+ employees across Europe!
 
-Before Payfit, I did a PhD to study interactions between users and web applications.
-This is a theme that is still close to my heart: how to craft the best experience for users?
+Before Payfit, I completed a PhD studying interactions between users and web applications.
+This theme is still close to my heart: how to craft the best experience for users?
 
 When I'm not coding, I like reading (and writing) fantasy 📚 
 and listening (and composing) music 🎹.
